@@ -1,0 +1,30 @@
+.main-logo {
+    display: flex;
+    float: left;
+    justify-content: left;
+    width: 50%;
+    Margin-left: 15px;
+    margin-top: 12px;
+
+}
+
+.icons {
+    color:black;
+    display: inline-block;
+    /* float: right; */
+    /* justify-content: right; */
+    margin-left: 200px;
+    padding-top: 15px;
+ 
+  
+   
+}
+
+hr{
+    background-image: url(“img/hr-img.png”);
+    background-repeat: repeat;
+    height: 5px;
+    width: 1000px;
+    margin-top: 50px;
+    background-position: right;
+}
