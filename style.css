@@ -1,8 +1,10 @@
+
+
 .main-logo {
     display: flex;
     float: left;
     justify-content: left;
-    width: 50%;
+    width: 35%;
     Margin-left: 15px;
     margin-top: 12px;
 
@@ -13,7 +15,7 @@
     display: inline-block;
     /* float: right; */
     /* justify-content: right; */
-    margin-left: 200px;
+    margin-left: 100px;
     padding-top: 15px;
  
   
@@ -27,6 +29,9 @@ hr{
     width: 1000px;
     margin-top: 50px;
     background-position: right;
+    display: flex;
+    align-items: flex-start;
+    /* position: absolute; */
 }
 
 .footer {
@@ -74,7 +79,7 @@ hr{
 
 .flex-container {
     display: flex;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .flex-child {
@@ -139,3 +144,4 @@ hr{
 /* p {
     text-indent: 30px;
 } */
+
