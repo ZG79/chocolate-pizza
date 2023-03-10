@@ -28,3 +28,114 @@ hr{
     margin-top: 50px;
     background-position: right;
 }
+
+.footer {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+/* .list {
+    
+   } */
+
+   #ingOne {
+    display: inline-block;
+   }
+
+   #ingTwo {
+    display: inline-block;
+   }
+/* #print {
+    display: inline-block; 
+    justify-content: right;
+    margin-left: 700px;
+} */
+
+/* #textOne {
+    display: inline-block; 
+    justify-content: left;
+} */
+
+/* #printIcon {
+    display: inline-block; 
+    justify-content: right;
+    margin-left: 400px;
+} */
+
+/* #prints {
+    display: inline-block; 
+    justify-content: right;
+    margin-left: 800px;
+    display: flex;
+}
+
+#choc {
+    display: inline-block;
+} */
+
+.flex-container {
+    display: flex;
+    text-align: center;
+}
+
+.flex-child {
+    flex: 1;
+
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
+.textTwo {
+    width: 1000px;
+}
+
+.flex-containerTwo {
+    display: flex;
+    /* text-align: center; */
+    background-image: url('img/list-bg.png');
+    width: 1000px;
+    height: 250px;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.flex-childOne {
+    flex: 1;
+    width: 500px;
+
+}  
+
+.list {
+    width: 500px;
+    margin-left: 100px;
+}
+
+.flex-childTwo:first-child {
+    margin-right: 20px;
+} 
+
+.textThree {
+    float: left;
+    /* margin-bottom: 0px; */
+    margin-left: 20px;
+}
+
+.footer {
+    width: 500px;
+    padding-left: 500px;
+    /* left: 0; */
+    bottom: 0;
+    width: 100%;
+    /* background-color: red;
+    color: white; */
+    /* text-align: center; */
+    margin-top: 20px;
+ }
+/* .textTwo {
+    width: 1000px;
+} */
+
+/* p {
+    text-indent: 30px;
+} */
